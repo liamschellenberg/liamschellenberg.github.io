@@ -1,0 +1,63 @@
+body {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 16pt;
+}
+
+
+header {
+    background-color: lightblue;
+    border: 2px solid yellowgreen;
+    text-align: center;
+    padding: 20px;
+    text-indent: 10px;
+    p {
+        text-indent: 3px;
+    }
+
+}
+
+h1 {
+    font-size: 30px;
+    font-family:'Helvetica', Times, serif;
+    color: Black;
+    text-decoration: underline;
+    text-align:center;
+    
+}
+
+h2 {font-size:1.5em;
+    color: yellowgreen;
+    margin-top: 3em;
+
+}
+
+h3 {
+    font-size: 1.5em;
+    color: yellowgreen;
+    margin-top: 3em;
+}
+
+h4 {
+    font-size: 1.5em;
+    color: yellowgreen;
+    text-align: left;
+    margin-top: 3em;
+}
+
+h5 {
+    font-size: 1.5em;
+    color: yellowgreen;
+    text-align: left;
+    margin-top: 3em;
+
+}
+
+h6 {
+    font-size: 1.5em;
+    color: yellowgreen;
+    text-align: left;
+    margin-top: 3em;
+
+}
+
+
